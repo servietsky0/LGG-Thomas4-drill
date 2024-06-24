@@ -13,7 +13,7 @@ class Hangman:
         self.pattern : str = r'[a-z]{1}'
 
     # str methode
-
+    
     
     def play(self):
         while True:               
